@@ -7,7 +7,7 @@
 
 [![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=ted0729&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ted0729/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729)](https://github.com/ted0729/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729&hide_progress=true)
  
 <br>
 
