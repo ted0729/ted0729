@@ -41,7 +41,7 @@
     </a>
 </div><br>
     
-## :clipboard:Stack 
+## :clipboard: Stack 
 <div style="display:flex; flex-direction:row;">
   
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
