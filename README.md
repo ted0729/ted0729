@@ -1,11 +1,21 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Ted's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+## :runner: Introduction
+📚 항상 배움의 길을 걷고 있는 개발자 지망생입니다
+<br>
+매일 새로운 지식을 품으며 성장하는 중입니다
+<br>
+이 길에서 만난 모든 도전을 환영합니다!!
+
 ---
   
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fted0729&count_bg=%23A4DF77&title_bg=%23686363&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=ted0729&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ted0729/github-readme-stats)
+
+<a href="https://opgc.me/#/users/ted0729" target="_blank"><img src="https://api.opgc.me/githubs/users/ted0729/tag/?theme=basic" /></a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729&hide_progress=true) -->
  
@@ -31,7 +41,7 @@
     </a>
 </div><br>
     
-## :clipboard: Once I've used 
+## :clipboard: Stack 
 <div style="display:flex; flex-direction:row;">
   
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
