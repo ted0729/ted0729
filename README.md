@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Ted's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
@@ -11,7 +11,7 @@
  
 <br>
 
-## 💻 TED's log 💻
+##  :pencil2: Ted's log
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@taehyun729">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
@@ -21,7 +21,7 @@
 </div><br>
 
  
-## 📞 Contact 📞
+## :phone: Contact
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/kkimtaehyunn/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -31,7 +31,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## :clipboard: Once I've used 
 <div style="display:flex; flex-direction:row;">
   
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
