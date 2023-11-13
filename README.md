@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ted0729&show_icons=true">
 
-<a href="https://opgc.me/#/users/ted0729" target="_blank"><img src="https://api.opgc.me/githubs/users/ted0729/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/ted0729" target="_blank"><img src="https://api.opgc.me/githubs/users/ted0729/tag/?theme=basic" /></a> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729&hide_progress=true) -->
  
