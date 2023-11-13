@@ -13,11 +13,11 @@
   
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fted0729&count_bg=%23A4DF77&title_bg=%23686363&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=ted0729&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ted0729/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ted0729&show_icons=true">
 
 <a href="https://opgc.me/#/users/ted0729" target="_blank"><img src="https://api.opgc.me/githubs/users/ted0729/tag/?theme=basic" /></a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted0729&hide_progress=true) -->
  
 <br>
 
@@ -44,13 +44,14 @@
 ## :clipboard: Stack 
 <div style="display:flex; flex-direction:row;">
   
-  ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <br>
+  
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   <br>
   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
