@@ -3,11 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Ted's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## :runner: Introduction
-📚 항상 배움의 길을 걷고 있는 개발자 지망생입니다
+📚 항상 배움의 길을 걷고 있는 프론트엔드 개발자입니다.
 <br>
 매일 새로운 지식을 품으며 성장하는 중입니다
-<br>
-이 길에서 만난 모든 도전을 환영합니다!!
 
 ---
   
